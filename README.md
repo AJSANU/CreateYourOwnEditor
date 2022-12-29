@@ -2,14 +2,23 @@
 This application will help you to create your own text edito
 
 # Additional Package install
+<br/>
 yarn add react-mde
+<br/>
 yarn add react-scripts
+<br/>
 yarn add rich-text-editor
+<br/>
 yarn add showdown
+<br/>
 yarn add @material-ui/core
+<br/>
 yarn add @mui/icons-material
+<br/>
 yarn add @mui/material
+<br/>
 yarn add @emotion/react
+<br/>
 yarn add @emotion/styled
 
 # Output
